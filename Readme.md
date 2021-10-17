@@ -1,5 +1,5 @@
-#Validador e gerador de CPFs
+# Validador e gerador de CPFs
 
-<div aling="center">
+<div align="center">
     <img src="./src/assets/img/imgHome.PNG">
 </div>
